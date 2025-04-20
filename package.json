@@ -1,0 +1,13 @@
+{
+  "name": "konusan-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "@discordjs/voice": "^0.14.0",
+    "ffmpeg-static": "^5.1.0"
+  }
+}
